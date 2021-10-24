@@ -1,7 +1,18 @@
 .title{
-    color:rgb(25, 155, 231);
+    color:rgb(25, 231, 76);
 }
 
+div ul li a{
+    color: chocolate;
+    
+}
 div ul li{
     list-style-type: none;
+    color: chocolate;
+    
+}
+
+div ul li a:hover{
+    text-transform: uppercase;
+ color: rgb(20, 19, 19);
 }
